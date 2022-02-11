@@ -11,8 +11,9 @@ Landsat9 raster tile (Tokyo) -Path 107 and row 035
 # Raster tile info
 Color combination is the true colore (B4 B3, B2).
 The above data values were streached and exported into 24bit RGB image file so that the color can be seen easily.
-Then, it is exported as raster tile (ZL6-13, tileSize 256).  
+Then, it is exported as raster tile (ZL4-13, tileSize 256).  
 
+https://ubukawa.github.io/Landsat9-Tokyo20211117/107035_20211117/{z}/{x}/{y}.png
 
 # map
 https://ubukawa.github.io/Landsat9-Tokyo20211117/maps/map.html
