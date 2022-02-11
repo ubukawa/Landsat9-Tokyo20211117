@@ -1,7 +1,7 @@
 {
     "version":8,
 "sources":{
-"r": {"type": "raster","tiles": ["https://ubukawa.github.io/Landsat9-Tokyo20211117/107035_20211117/{z}/{x}/{y}.png"],"attribution": "2021-11-17 Landsat-9 image courtesy of the U.S. Geological Survey","tileSize": 256,"maxzoom": 13},
+"r": {"type": "raster","tiles": ["https://ubukawa.github.io/Landsat9-Tokyo20211117/107035_20211117/{z}/{x}/{y}.png"],"attribution": "2021-11-17 Landsat-9 image courtesy of the U.S. Geological Survey","tileSize": 256,"maxzoom": 14},
 "v": {"type": "vector","tiles": ["https://ubukawa.github.io/VT-test-0614/ne-test/{z}/{x}/{y}.pbf"],"attribution": "NaturalEarth - only for test","minzoom": 0,"maxzoom": 5}
 },
 "sprite": "https://ubukawa.github.io/VT-test-0614/sprite/sprite",
